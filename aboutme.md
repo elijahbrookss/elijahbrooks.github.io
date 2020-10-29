@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Aspiring Software Developer
-cover-img: /assets/img/hello_world.jpeg
+cover-img: /assets/img/animated_banner.gif
 ---
 
 My name is Elijah Brooks. I'm an aspiring software developer.
