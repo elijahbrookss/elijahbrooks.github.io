@@ -13,4 +13,27 @@ Git is an essential tool for any software engineer. Git is a distributed version
 Git Branches
 
 Imagine you're working on a project with a group of people and you were assigned the task of creating a cascade sheet for the home page. How could you submit your data to the main project? Sure you could copy and paste the whole project and change the '.css' file, but what if you wanted to just change one line in the '.css' file, while your partner changed another? Discussing with your partner and trying to patch together the lines would be tedious and time consuming. Luckily, git has something called branches which handles the work for us. Instead of cloning the entire project so you can play with the file, what a branch allows us to do is create a new version of the main, or master, branch and add our own changes to it. This new branch is separate from the master branch and allows us to make our own changes without effecting the master branch. Amazing isn't it?
+
+
 Creating a new branch is simple:
+~~~
+git branch new_branch
+~~~
+
+This creates a new branch named new_branch for our repository. If you'd like to see all the branches run the command:
+
+~~~
+git branch
+~~~
+or
+~~~
+git branch -a
+~~~
+
+Output:
+~~~
+new_branch
+*master
+~~~
+
+As you can see there's two branches that's been listed. The master branch is the main branch and the new_branch is the branch we've just created. 
