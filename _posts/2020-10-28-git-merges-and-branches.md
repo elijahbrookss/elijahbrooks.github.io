@@ -106,6 +106,6 @@ git checkout -b feature -- creates a new branch and switches over to branch
 
 **More Information**
 
-  [Basic git commands: add, commit, push](https://davidmolina2810.github.io/programming-prose/2020-10-27-git-your-work-flow-on-with-git/)
-  [Understanding Branches](https://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html)
-  [Merging and Merge Conflicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
+  * [Basic git commands: add, commit, push](https://davidmolina2810.github.io/programming-prose/2020-10-27-git-your-work-flow-on-with-git/)
+  * [Understanding Branches](https://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html)
+  * [Merging and Merge Conflicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
