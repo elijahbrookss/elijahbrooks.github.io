@@ -2,7 +2,7 @@
 layout: post
 title: Git Merges and Branches
 subtitle: Understanding git merges and branching
-cover-img: /assets/img/git-banner.jpg
+cover-img: /assets/img/gitlogo.png
 thumbnail-img: /assets/img/git-banner.jpg
 share-img: /assets/img/git-banner.jpg
 tags: [git, merge, branches]
@@ -103,4 +103,7 @@ git checkout -b feature -- creates a new branch and switches over to branch
 |git branch -D branch_name| deletes the branch |
 |git merge branch_name| merges the branch |
 
-[Learn More About Git](https://davidmolina2810.github.io/programming-prose/2020-10-27-git-your-work-flow-on-with-git/)
+**More Information**
+  [Basic git commands: add, commit, push](https://davidmolina2810.github.io/programming-prose/2020-10-27-git-your-work-flow-on-with-git/)
+  [Understanding Branches](https://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html)
+  [Merging and Merge Conflicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
