@@ -48,7 +48,7 @@ Now let's go ahead and make our edits to the '.css' file. We started off with ju
 
 Now let's change the background_position.
 
-![css_image](/assets/img/css(1).png)
+![css_image](/assets/img/css(2).png)
 
 We're finished with our edits. Now it's time to merge our branch to the master branch.
 
@@ -62,11 +62,20 @@ Once we're in the master branch now we can run the command:
 ```ruby
 git merge new_branch
 ```
-And voila, if you check the explorer, you'll see that our '.css' file has been added with the changes made. There's still one more thing we need to do though. If you run the command to look at all of our branches, you'll notice that the "new_branch" is still there. Since we've merged our changes over there's no need for it. Let's remove it. To delete branches **that have been merged**, run the command:
+And voila, if you check the explorer, you'll see that our '.css' file has been added with the changes made.
+
+![css_image](/assets/img/css(2).png)
+
+
+ There's still one more thing we need to do though. If you run the command to look at all of our branches, you'll notice that the "new_branch" is still there. Since we've merged our changes over there's no need for it. Let's remove it. To delete branches **that have been merged**, run the command:
 ```ruby
 git branch -d new_branch
 ```
-Now if we print out all of our branches we see that new_branch is gone now. Our merge has been completed. What if, however, we were right in the middle of making a change but decided that we're not going to do that change anymore? Let's say we have a branch named "active_record_databases." But, our boss just told us that he doesn't want to use active_record anymore. Well then, we'll need to delete the branch from the repository. To delete branches from the repository that **haven't been merged yet** run the command:
+Now if we print out all of our branches we see that new_branch is gone now.
+```ruby
+*master
+```
+Our merge has been completed. What if, however, we were right in the middle of making a change but decided that we're not going to do that change anymore? Let's say we have a branch named "active_record_databases." But, our boss just told us that he doesn't want to use active_record anymore. Well then, we'll need to delete the branch from the repository. To delete branches from the repository that **haven't been merged yet** run the command:
 ```ruby
 git branch -D active_record_databases
 ```
@@ -74,5 +83,4 @@ Now if we list out all of our databases, we see that active_record_databases isn
 ```ruby
 *master
 ```
-
-Git offers many more amazing features and there's much more we can do with merging branches. If you'd like more information about git checkout the available resource links.
+Git offers many more amazing features and there's much more we can do with merging branches. Here's some useful commands for branching and merging.
