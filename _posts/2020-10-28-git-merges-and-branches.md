@@ -93,16 +93,16 @@ git branch -d feature --deletes braanch if merged
 git branch -D feature --deletes branch if not merged
 git checkout -b feature -- creates a new branch and switches over to branch
 
-                    | Command | Description |
-                    | :------ |:------|
-                    |git branch branch_name| creates a new branch|
-                    |git branch -a| lists all the branches|
-                    |git branch| lists all the branches|
-                    |git checkout branch_name| navigates to a branch|
-                    |get checkout -b branch_name| creates and navigates to a new branch|
-                    |git branch -d branch_name| deletes the branch if merged |
-                    |git branch -D branch_name| deletes the branch |
-                    |git merge branch_name| merges the branch |
+| Command | Description |
+| :------ |:------|
+|git branch branch_name| creates a new branch|
+|git branch -a| lists all the branches|
+|git branch| lists all the branches|
+|git checkout branch_name| navigates to a branch|
+|get checkout -b branch_name| creates and navigates to a new branch|
+|git branch -d branch_name| deletes the branch if merged |
+|git branch -D branch_name| deletes the branch |
+|git merge branch_name| merges the branch |
 
 **More Information**
   * [Basic git commands: add, commit, push](https://davidmolina2810.github.io/programming-prose/2020-10-27-git-your-work-flow-on-with-git/)
