@@ -42,6 +42,9 @@ git branch
 *new_branch
 master
 ```
+Now let's go ahead and make our edits to the '.css' file. We started off with just a basic background color.
+![Crepe](/assets/img/css(1).png)
+
 **Merging Branches**
 
 We can see that we're on the new_branch now. Any changes we make in this branch won't alter the master branch. But what if we're done editing our branch and want to put the changes on the master branch? That's where merging comes into play. To merge we first need to migrate towards the master branch.
@@ -52,7 +55,7 @@ Once we're in the master branch now we can run the command:
 ```ruby
 git merge new_branch
 ```
-And voila, if you check the explorer, you'll see that our '.css' file has been added with the changes made. There's still one more thing we need to do though. If you run the command to look at all of our branches, you'll notice that the "new_branch" is still there. Since we've merged our changes over there's no need for it. Let's remove it. To delete branches, run the command:
+And voila, if you check the explorer, you'll see that our '.css' file has been added with the changes made. There's still one more thing we need to do though. If you run the command to look at all of our branches, you'll notice that the "new_branch" is still there. Since we've merged our changes over there's no need for it. Let's remove it. To delete branches **that have been merged**, run the command:
 ```ruby
 git branch -d new_branch
 ```
@@ -61,5 +64,8 @@ Now if we print out all of our branches we see that new_branch is gone now. Our 
 git branch -D active_record_databases
 ```
 Now if we list out all of our databases, we see that active_record_databases isn't there anymore.
+```ruby
+*master
+```
 
 Git offers many more amazing features and there's much more we can do with merging branches. If you'd like more information about git checkout the available resource links.
