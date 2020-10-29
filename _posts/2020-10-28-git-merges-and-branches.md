@@ -43,7 +43,14 @@ git branch
 master
 ```
 Now let's go ahead and make our edits to the '.css' file. We started off with just a basic background color.
-![Crepe](/assets/img/css(1).png)
+
+![css_image](/assets/img/css(1).png)
+
+Now let's change the background_position.
+
+![css_image](/assets/img/css(1).png)
+
+We're finished with our edits. Now it's time to merge our branch to the master branch.
 
 **Merging Branches**
 
