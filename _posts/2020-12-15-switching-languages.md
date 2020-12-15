@@ -15,7 +15,7 @@ readtime: true
 
 ![switching-languages](/assets/img/Frustration-writing.jpg)
 
-Starting off as a new programmer and learning your first language is arguably the hardest part of becoming a programmer. But once you get past learning your first language learning others will be easy with just these few steps.
+Starting off as a new programmer and learning your first language is arguably the hardest part of becoming a programmer. But there will come a time where you'll need to learn a different language and with all these different options of languages how will you know which one to choose? Once you get past learning your first language learning others will be easy but finding out which one to learn can be the difficult part, here's a few steps to help you along the way.
 
 ### Identify the language
 
