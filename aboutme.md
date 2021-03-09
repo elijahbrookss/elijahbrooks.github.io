@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Aspiring Software Developer
-cover-img: /assets/img/profilepic.jpeg
+cover-img: /assets/img/circle_animated.gif
 ---
 
 My name is Elijah Brooks, I'm a Full Stack Software Engineer and an aspiring entrepreneur.
