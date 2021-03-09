@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Software Engineer
-cover-img: /assets/img/Mountains(2).jpg
+cover-img: /assets/img/wp5034773.jpg
 ---
 
 My name is Elijah Brooks, I'm a Full Stack Software Engineer and an aspiring entrepreneur.
