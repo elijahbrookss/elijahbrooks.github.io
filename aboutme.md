@@ -5,7 +5,7 @@ subtitle: Software Engineer
 cover-img: /assets/img/wp5034773.jpg
 ---
 
-My name is Elijah Brooks, I'm a Full Stack Software Engineer and an aspiring entrepreneur. I'm a strong believer in doing what you teach so as I become more knowledgeable in topics I choose to educate others on that as well. If you'd like for me to explain something in more depth please feel free to reach out to me.
+My name is Elijah Brooks, I'm a Full Stack Software Engineer and an aspiring entrepreneur. I'm a strong believer in doing what you teach so as I become more knowledgeable in topics I choose to educate others on that as well. If you'd like for me to explain something in more depth please feel free to reach out.
 
 ### My story
 
