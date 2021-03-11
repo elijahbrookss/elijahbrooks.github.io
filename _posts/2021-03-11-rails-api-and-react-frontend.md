@@ -18,4 +18,14 @@ As a side note I'm not going to go into how to set this up physically, this post
 
 ### What Is an API? (Application Programming Interface)
 
-First let's start off with our understanding of what an API is. By definition an API is a software intermediary that allows two applications to talk to each other. Well what does that mean for our Rails API  + React application? 
+First let's start off with our understanding of what an API is. By definition an API is a software intermediary that allows two applications to talk to each other.
+
+**Well what does that mean for our Rails API  + React application?**
+
+In a Rails API and React application we have two apps our Rails backend which contains our models, routes, and controllers, and we have our React frontend which contains our styling, user input, and user interface. So what building an API allows us to do is communicate from our backend to our frontend in the form of requests.
+
+Below is an illustration of how this works.
+
+![api-model](/assets/img/api-model.png)
+
+As you can see in the illustration whenever a user interacts with the web site, or in our case our React frontend, the frontend sends a request through the API (Rails API) to our web server and database (Rails).
