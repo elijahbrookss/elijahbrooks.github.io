@@ -28,4 +28,17 @@ Below is an illustration of how this works.
 
 ![api-model](/assets/img/api-model.png)
 
-As you can see in the illustration whenever a user interacts with the web site, or in our case our React frontend, the frontend sends a request through the API (Rails API) to our web server and database (Rails).
+As you can see in the illustration whenever a user interacts with the web site (React frontend) the frontend sends a request through the API (Rails API) to our web server and database (Rails). But how exactly does an API, more specifically our Rails API, communicate between the two apps?
+
+## How APIs Communicate to Other Applications
+
+As with real languages, when mediating between two different languages there has to be a median language that both sides understand. What is that language for web applications? One of the most popular and one of my favorites is JSON. JSON stands for **J**ava**S**cript **O**bject **N**otation. JSON allows us to turn any JavasScript object into JSON and send JSON to the server. We can also convert any data the server sends through into JSON so that JavaScript can understand it. This is EXTREMELY useful because now we can read and work with data from both sides!
+
+Below is an example of what JSON looks like.
+
+![api-model](/assets/img/json-example.jpg)
+
+As you can see all JSON is, is a giant string object. Which is why it's readable on both sides, Rails API and React frontend. React isn't the only frontend this works with however, since JSON stands for **J**ava**S**cript **O**bject **N**otation, we can assume that it works for any framework or frontend that involves JavaScript. Isn't that amazing!
+
+But what happens when the API sends the request through our Rails API?
+## Deeper Dive Into Rails API
