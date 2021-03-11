@@ -18,7 +18,7 @@ As a side note I'm not going to go into how to set this up physically, this post
 
 ### What Is an API? (Application Programming Interface)
 
-First let's start off with our understanding of what an API is. By definition an API is a software intermediary that allows two applications to talk to each other.
+First let's start off with our understanding of what an API is. By definition an API is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API.
 
 **Well what does that mean for our Rails API  + React application?**
 
@@ -42,3 +42,14 @@ As you can see all JSON is, is a giant string object. Which is why it's readable
 
 But what happens when the API sends the request through our Rails API?
 ## Deeper Dive Into Rails API
+
+As mentioned earlier, JSON can convert any JavaScript models into JSON for our Rails API to then pick up and use. But what can our Rails API do with this JSON data? Well that's completely up to you! Since you're reading this blog I'm assuming you already know about routes and controllers. As a recap, when you set up a controller you're deciding what to do with the information sent when a request is given for a certain route. You can assume a certain build for the data you're going to receive and dish out your own data as well.
+
+Something more commonly done with Rails API is the transfer of JWT or JSON Web Tokens. I won't go in too much detail on JWT in this blog, but since you're able to turn data into string which can be read by the server, you can now check the authentication of a user by sending their token through the API to verify if the user is who they claim to be.
+
+For more information on the topics discussed in this post refer to the links below.
+
+### For More Information:
+* [What is an API?](https://www.mulesoft.com/resources/api/what-is-an-api)
+* [What are web tokens?](https://jwt.io)
+* [How to use an API with Ruby](https://rapidapi.com/blog/how-to-use-an-api-with-ruby/)
