@@ -2,7 +2,7 @@
 layout: post
 title: Rails API and React Frontend Structure
 subtitle: How the Rails API and React frontend structure works
-cover-img: /assets/img/api-banner.jpg
+cover-img: /assets/img/react-rails-banner.png
 thumbnail-img: /assets/img/react-rails.png
 share-img: /assets/img/react-rails.png
 tags: [computer science, programming, languages, react, rails]
