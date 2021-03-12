@@ -15,9 +15,7 @@ author: Elijah Brooks
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  LinkedIn Profile: 'https://www.linkedin.com/in/elijah-brooks-377140187/'
   Author's home: "https://github.com/elijahbrookss"
 
 # --- Logo --- #
@@ -43,6 +41,7 @@ social-network-links:
 #  facebook: deanattali
   github: elijahbrookss
   twitter: elijahcbrooks
+  linkedin: elijah-brooks-377140187
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -69,7 +68,7 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
@@ -144,7 +143,7 @@ footer-link-col: "#404040"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "disqus_ShUlKtVfaK"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
