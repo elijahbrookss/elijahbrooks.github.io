@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From Game Developer to Software Engineer
-subtitle: Why you should learn game developming before Software Engineering
+subtitle: Why you should learn game developing before software engineering
 cover-img: /assets/img/2021-03-18/programmer.jpg
 thumbnail-img: /assets/img/2021-03-18/programmer.jpg
 share-img: /assets/img/2021-03-18/programmer.jpg
@@ -24,3 +24,5 @@ By starting off as a game developer you learn the balance between styling and fu
 ![api-model](/assets/img/2021-03-18/balance.jpg)
 
 ### Challenging But fun
+
+Game development is **NOT** a walk in the park! Game development involves sleepless nights, dedication, and passion. However, for the passionate this pays off in the end when your game gets players. The challenging part of programming games involve complicated and sophisticated systems. By programming these systems you're building up problem solving skills and patience. These qualities will benefit you tremendously when transferring over to software engineering. Coding systems in websites are often less arduous than coding systems in video games.
