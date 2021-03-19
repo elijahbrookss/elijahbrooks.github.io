@@ -19,7 +19,6 @@ One thing that both software engineering and game development have in common is 
 
 ## You Learn The Balance
 
-![api-model](/assets/img/balance.jpg)
+By starting off as a game developer you learn the balance between styling and functionality. Much like a website, a game needs a balance between styling and functionality in order to work. For instance, a game that looks good but doesn't offer much to do wouldn't be fun to play. Much like how a game that's filled with tasks to do however looks basic wouldn't be much fun to play. The same can be said for an application. If the application is really appealing but doesn't allow users to do much then it won't be as successful. Same can be said if the application offers a lot but looks bad. 
 
-
-With Software Development
+![api-model](/assets/img/2021-03-18/balance.jpg)
