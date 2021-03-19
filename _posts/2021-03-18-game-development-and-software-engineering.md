@@ -26,3 +26,7 @@ By starting off as a game developer you learn the balance between styling and fu
 ### Challenging But fun
 
 Game development is **NOT** a walk in the park! Game development involves sleepless nights, dedication, and passion. However, for the passionate this pays off in the end when your game gets players. The challenging part of programming games involve complicated and sophisticated systems. By programming these systems you're building up problem solving skills and patience. These qualities will benefit you tremendously when transferring over to software engineering. Coding systems in websites are often less arduous than coding systems in video games.
+
+Apart from just building analytical skills game programming can be enjoyable as well. When seeing something you imagined finally come to birth and being able to let others see your imagination as well, developers feel a sense of thrill and excitement.
+
+![api-model](/assets/img/2021-03-18/stress.jpg)
