@@ -65,9 +65,8 @@ One really popular framework is the commonly used ruby framework used as a serve
   - A library is a software that you plug into your code (build “on top” of it).
 
 
-
-  ## For More Information:
-  * [Framework Vs Library](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
-  * [Inversion of Control](https://www.tutorialsteacher.com/ioc/inversion-of-control)
-  * [What is Rails?](https://rubyonrails.org)
-  * [What is React?](https://reactjs.org)
+## For More Information:
+* [Framework Vs Library](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
+* [Inversion of Control](https://www.tutorialsteacher.com/ioc/inversion-of-control)
+* [What is Rails?](https://rubyonrails.org)
+* [What is React?](https://reactjs.org)
