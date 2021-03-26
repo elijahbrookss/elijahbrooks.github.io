@@ -2,9 +2,9 @@
 layout: post
 title: Difference Between a Framework And a Package
 subtitle: Detailed breakdown on the difference between the two
-cover-img: /assets/img/Library-vs-Framework.jpg
-thumbnail-img: /assets/img/Library-vs-Framework.jpg
-share-img: /assets/img/Library-vs-Framework.jpg
+cover-img: /assets/img/2021-03-25/Library-vs-Framework.jpg
+thumbnail-img: /assets/img/2021-03-25/Library-vs-Framework.jpg
+share-img: /assets/img/2021-03-25/Library-vs-Framework.jpg
 tags: [library, frameworks, web development]
 readtime: true
 ---
