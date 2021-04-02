@@ -106,3 +106,7 @@ const person1 = 'Jane';
 I think it's a good practice to use 'let' and 'const' over 'var' because of the benefits and restrictions that come with 'let' and 'const' that don't come with 'var'. Using 'let' and 'const' can potentially save you lots of time debugging your projects.
 
 Happy Coding!
+
+## For More Information:
+* [ES6 Features](http://es6-features.org/#Constants)
+* [JavaScript Features](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
