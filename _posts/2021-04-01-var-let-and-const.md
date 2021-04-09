@@ -100,7 +100,7 @@ person1 = 'John';
 // Error, can't reassign const variables
 
 const person1 = 'Jane';
-// Error, can't redeclarte const variables
+// Error, can't redeclare const variables
 ```
 
 I think it's a good practice to use 'let' and 'const' over 'var' because of the benefits and restrictions that come with 'let' and 'const' that don't come with 'var'. Using 'let' and 'const' can potentially save you lots of time debugging your projects.
